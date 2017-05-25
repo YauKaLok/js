@@ -99,10 +99,10 @@
 								<move todir="${destDir}">
 									<fileset
 										dir="${project.build.directory}/js-${upstream.version}">
-										<include name="css/" />
-										<include name="js/" />
-										<include name="fonts/" />
-										<include name="images/" />
+										<include name="src/main/css/" />
+										<include name="src/main/js/" />
+										<include name="src/main/fonts/" />
+										<include name="src/main/images/" />
 									</fileset>
 								</move>
 							</target>
