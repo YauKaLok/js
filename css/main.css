@@ -1,0 +1,44 @@
+body {
+  font-family: "Osaka", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+  font-size: 14px;
+}
+
+.box-section {
+  margin: 0 0 20px;
+  border-top: solid 2px #b2d9e8;
+  padding: 15px 10px 0;
+}
+
+.list-radio-01 {
+  margin-bottom: 10px;
+}
+
+.list-radio-01 dt{
+  position: relative;
+  padding: 15px 20px 15px 20px;
+  background: #a7d3e4;
+  color: #0081b2;
+}
+
+.list-radio-01 dd{
+  margin: 0;
+  padding: 10px 20px 10px 20px;
+  background: #ededed;
+}
+
+.md-button.md-cornered {
+    background-color: #0081b2;
+}
+
+.left {
+	color: #0081b2;
+    padding: 10px 15px;
+    background: #b2d9e8;
+    border-bottom: 1px solid #fff;
+}
+
+.right {
+	padding: 10px 25px;
+    background: #ededed;
+    border-bottom: 1px solid #fff;
+}
